@@ -8,14 +8,13 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/anirudh-b-k/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn Logo" />
+<p align="left">I'm Anirudh from India<br><br>- 🔭 I’m working as AI/ML Engineer.<br>- 📚 I'm currently learning NodeJS, AWS, Docker and Kotlin<br>- ⚡ In my free time I would like a walk.</p>
+<p align="center">
+  <a href="https://anirudh-porfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live-4FC3F7?style=for-the-badge&logo=netlify" alt="Portfolio Link" />
   </a>
-  <a href="mailto:anirudhnbua@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail Logo" />
-  </a>
-</div>
+  <img src="https://img.shields.io/badge/Location-India-FF6E40?style=for-the-badge&logo=india" alt="Location: India" />
+</p>
 
 
 ###
