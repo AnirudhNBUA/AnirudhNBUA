@@ -23,15 +23,7 @@
 
 ###
 
-<p align="left">I'm Anirudh from India<br><br>- 🔭 I’m working as AI/ML Engineer.<br>- 📚 I'm currently learning NodeJS, AWS, Docker and Kotlin<br>- ⚡ In my free time I would like a walk.<br><br><b>Portfolio ➡️</b> <a href="https://anirudh-porfolio.netlify.app/">https://anirudh-porfolio.netlify.app/</a></p>
-<br>
-<p align="center">
-  <a href="https://anirudh-porfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Live-4FC3F7?style=for-the-badge&logo=netlify" alt="Portfolio Link" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-India-FF6E40?style=for-the-badge&logo=india" alt="Location: India" />
-</p>
-
+<p align="left">I'm Anirudh from India<br><br>- 🔭 I’m working as AI/ML Engineer.<br>- 📚 I'm currently learning NodeJS, AWS, Docker and Kotlin<br>- ⚡ In my free time I would like a walk.</p>
 
 ###
 
