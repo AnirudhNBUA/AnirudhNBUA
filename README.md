@@ -12,9 +12,8 @@
 <br>
 <p align="center">
   <a href="https://anirudh-porfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Live-4FC3F7?style=for-the-badge&logo=netlify" alt="Portfolio Link" />
+    <img src="https://img.shields.io/badge/Portfolio-Live-4FC3F7?style=for-the-badge&logo=netlify" alt="Portfolio Link"/>
   </a>
-  <img src="https://img.shields.io/badge/Location-India-FF6E40?style=for-the-badge&logo=india" alt="Location: India" />
 </p>
 
 
